@@ -1,0 +1,7 @@
+"cp4d_instance_name": "ibmcpd-cr"
+"cp4d_namespace": "gitops-cp4d-instance"
+"cpd_operator_namespace": "cpd-operators"
+"license": "Enterprise"
+"license_accept": true
+"storage_vendor": "portworx"
+
