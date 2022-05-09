@@ -1,6 +1,7 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
+  - base/cpd-operators-ibm-entitlement-key.yaml
   - base/ibm-common-services-ibm-entitlement-key.yaml
   - base/namespace-cpd-operators.yaml
   - base/namespace-gitops-cp4d-instance.yaml
